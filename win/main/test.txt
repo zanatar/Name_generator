@@ -1,0 +1,2 @@
+<PyQt5.QtWidgets.QListWidgetItem object at 0x0000000003575048>
+־ההגדוי

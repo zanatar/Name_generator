@@ -1,0 +1,1 @@
+pyuic5 E:\Python37\progs\!generator\full\generator.ui -o E:\Python37\progs\!generator\full\generator.py
